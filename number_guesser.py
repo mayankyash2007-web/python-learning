@@ -13,5 +13,5 @@ while not guessed:
         print("Try a larger number you guessed.")
     else:
         print("Try a lower number you guessed.")
-print(COUNT)
+print("Attempts taken:",COUNT)
 print("Game over!")
